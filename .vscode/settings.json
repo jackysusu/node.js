@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/2313929c-f44a-4861-ba71-2a360136517a/resourceGroups/sexygril/providers/Microsoft.Web/sites/jackysusu-test",
+    "appService.deploySubpath": "."
+}
